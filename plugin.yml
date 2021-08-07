@@ -1,0 +1,14 @@
+name: Yaslevel
+author: Yaser
+main: Yaser\Yaslevel\Main
+api: 3.0.0
+version: 1.5.0
+
+depend:
+- EconomyAPI
+
+commands:
+  level:
+    description: "Upgrade Your Level"
+     
+   
